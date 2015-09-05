@@ -1,0 +1,22 @@
+{
+  "name": "pepoipod",
+  "version": "0.0.1",
+  "description": "doraemon title picture generator in hubot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pepoipod/hubot-dora.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "pepoipod <daikinecmouth@hotmail.co.jp> (http://pepoipod.jp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pepoipod/hubot-dora/issues"
+  },
+  "homepage": "https://github.com/pepoipod/hubot-dora"
+}
