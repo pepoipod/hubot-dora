@@ -1,2 +1,2 @@
 # hubot-dora
-ドラえもんのタイトルジェネレーター in hubot
+ドラえもんタイトルジェネレーター in hubot
